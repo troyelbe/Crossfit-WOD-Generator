@@ -43,13 +43,13 @@ Overall, the model achieved strong performance in generating structured and real
 
 # Script Execution Steps: 
 Step 1: Upload the dataset (WOD Final Dataset.csv) to Google Drive
-  Go to Google Drive and upload the file, placing it in a folder if desired
+Go to Google Drive and upload the file, placing it in a folder if desired
 
 Step 2: Identify the file path in Google Drive
-  Locate the file and note its path (i.e., /content/drive/MyDrive/your-folder/WOD Final Dataset.csv)
+Locate the file and note its path (i.e., /content/drive/MyDrive/your-folder/WOD Final Dataset.csv)
 
 Step 3: Open Google Colab and load the Crossfit_Final_project.ipynb notebook
-  Upload the notebook or open it directly from Google Drive
+Upload the notebook or open it directly from Google Drive
 
 Step 4: Mount Google Drive, update the dataset path if needed, and run all cells in the notebook
 
